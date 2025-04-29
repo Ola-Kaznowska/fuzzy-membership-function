@@ -32,3 +32,25 @@ Follow these steps to set up and run the project on your local machine:
   [https://www.python.org/downloads/release/python-3133/](https://www.python.org/downloads/release/python-3133/)
 
 - During installation, **check the box** that says “Add Python to PATH”.
+
+- ### 🧰 Install Visual Studio Code (VS Code)
+
+VS Code is a lightweight code editor perfect for Python development.
+
+**Step-by-step:**
+
+1. **Download VS Code:**  
+   [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+
+2. **Run the installer:**
+   - ✅ Check the box **"Add to PATH"** during installation.
+   - 📝 Optionally check **"Register Code as editor for supported file types"**.
+   - ➡️ Click **Next** and finish installation.
+
+3. **Launch Visual Studio Code.**
+
+4. **Install the Python Extension:**
+   - Click the **Extensions** icon on the left sidebar *(or press `Ctrl+Shift+X`)*
+   - Search for: `Python`
+   - Click **Install** (by Microsoft)
+
